@@ -25,7 +25,7 @@ Each project has its own dedicated repository with source code, documentation, a
 ---
 
 ### 📊 Cricket World Cup EDA Project 
-[🔗 View Repository]([https://github.com/yourusername/Churn-Prediction](https://github.com/AbdulMoizZuberi/EDA-on-Cricket-World-Cup))  
+[🔗 View Repository]([https://github.com/yourusername/Churn-Prediction](https://github.com/AbdulMoizZuberi/EDA-on-Cricket-World-Cup) 
 - Data Preparation: The notebook loaded multiple CSV files for various Cricket World Cups, renamed columns to standardize them, and merged them into a single pandas DataFrame. It also converted the 'Date' column to a datetime format.
 - Initial Analysis: It performed a basic exploratory data analysis to find the total number of matches played across all the World Cups.  
 - Win Percentage Calculation: The notebook calculated the number of wins for each team by extracting team names and the winner from the 'Match' and 'Result' columns, respectively.  
@@ -33,7 +33,7 @@ Each project has its own dedicated repository with source code, documentation, a
 ---
 
 ### 🖼️ Netflix Movie Dataset EDA Project 
-[🔗 View Repository]([https://github.com/yourusername/Image-Classifier](https://github.com/AbdulMoizZuberi/EDA-on-Netflix-Movies-Dataset))  
+[🔗 View Repository]([https://github.com/yourusername/Image-Classifier](https://github.com/AbdulMoizZuberi/EDA-on-Netflix-Movies-Dataset)
 - Data Preprocessing: Handled missing values, removed duplicates, renamed columns, and converted data types for consistency.  
 - Exploratory Data Analysis (EDA): Analyzed patterns in genres, countries, release years, and content ratings to identify key insights.  
 - Data Visualization: Used bar charts, count plots, and heatmaps to effectively present content trends and patterns in the Netflix dataset.  
