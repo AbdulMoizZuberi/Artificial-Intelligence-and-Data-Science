@@ -40,6 +40,15 @@ Each project has its own dedicated repository with source code, documentation, a
 
 ---
 
+### 🌫️ Air Quality (India) EDA Project
+
+[🔗 View Repository](https://github.com/AbdulMoizZuberi/EDA_on_Air_Quality_INDIA)
+
+- Data Preprocessing: Cleaned the dataset by handling missing values, checking duplicates, and ensuring proper formatting of dates and pollutant columns.
+- Exploratory Data Analysis (EDA): Explored air pollution patterns across Indian cities and stations, focusing on key pollutants like PM2.5, PM10, NO₂, SO₂, CO, and Ozone.
+- Data Visualization: Used line plots, bar charts, heatmaps, and missing value maps to highlight pollution trends, seasonal variations, and data completeness.
+
+---
 
 ## 🛠️ Tech Stack  
 
